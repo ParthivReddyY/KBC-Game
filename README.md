@@ -1,5 +1,14 @@
 # **Kaun Banega Crorepati (KBC) Game** 🎮🎉  
 
+![image](https://github.com/user-attachments/assets/aee4d173-0c99-4fb2-9e45-d9f65fb5c28b)
+
+
+![image](https://github.com/user-attachments/assets/147296d7-34f0-4d8e-a733-80c12a0b878c)
+
+
+![image](https://github.com/user-attachments/assets/5bca6ed3-dff0-497b-a0a7-4ad5fcb8b905)
+
+
 This is a Java-based implementation of the iconic quiz game **Kaun Banega Crorepati (KBC)**. The game features an engaging graphical user interface (GUI) 🖥️ and includes lifelines, a comprehensive question bank 📚, and a scoring mechanism 💰. It was developed as part of an Object-Oriented Programming (OOP) project.  
 
 ---
